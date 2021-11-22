@@ -1,5 +1,5 @@
 {
-  "defaultPrefix": "/",
+  "defaultPrefix": "#",
   "reactionSuccess": "✔️",
   "reactionError": "❌",
   "deletionTimeout": 10000,
